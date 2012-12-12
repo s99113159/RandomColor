@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RandomColorActivity!</string>
+    <string name="app_name">RandomColor</string>
+
+    <!-- 顏色字串 -->
+    <string name="red">紅</string>
+    <string name="orange">橙</string>
+    <string name="yellow">黃</string>
+    <string name="green">綠</string>
+    <string name="blue">藍</string>
+    <string name="purple">紫</string>
+    <string name="black">黑</string>
+    <string name="white">白</string>
+
+</resources>
